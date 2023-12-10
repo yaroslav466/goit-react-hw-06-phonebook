@@ -5,7 +5,6 @@ const exampleContacts = [
   { id: 'id-2', name: 'Naruhito', number: '+81-354-74-97-70' },
   { id: 'id-3', name: 'Frankr', number: '+49-30-28-88-71-28' },
   { id: 'id-4', name: 'Rishi', number: ' +44-0-131-556-0023' },
-  { id: 'id-5', name: 'Emmanuel', number: '+33-1-43-06-07-37' },
   { id: 'id-5', name: 'Hermione', number: '245-91-54' },
   { id: 'id-6', name: 'Ron', number: '227-91-73' },
   { id: 'id-7', name: 'Draco', number: '227-91-11' },
